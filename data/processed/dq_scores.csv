@@ -1,0 +1,22 @@
+entity,dimension,score,weight
+ACCOUNTS,Completeness,100.0,0.35
+ACCOUNTS,Validity,100.0,0.25
+ACCOUNTS,Consistency,100.0,0.2
+ACCOUNTS,Uniqueness,32.87,0.1
+ACCOUNTS,Freshness,100.0,0.1
+CONTACTS,Completeness,100.0,0.35
+CONTACTS,Validity,100.0,0.25
+CONTACTS,Consistency,49.53,0.2
+CONTACTS,Uniqueness,100.0,0.1
+CONTACTS,Freshness,100.0,0.1
+LEADS,Completeness,100.0,0.35
+LEADS,Validity,0.0,0.25
+LEADS,Consistency,100.0,0.2
+LEADS,Uniqueness,100.0,0.1
+LEADS,Freshness,100.0,0.1
+OVERALL,Completeness,100.0,0.35
+OVERALL,Validity,64.24,0.25
+OVERALL,Consistency,73.52,0.2
+OVERALL,Uniqueness,92.1,0.1
+OVERALL,Freshness,100.0,0.1
+CRM HEALTH SCORE,Weighted Average,84.97,1.0

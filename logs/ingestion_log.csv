@@ -1,0 +1,6 @@
+timestamp,source_sheet,staging_table,rows_loaded,columns,total_nulls,cast_errors,status,output_file
+2026-06-06 19:03:52,Accounts,stg_accounts,10000,6,0,None,SUCCESS,/Users/shreyajoshi/Downloads/CRM/data/staging/stg_accounts.csv
+2026-06-06 19:03:52,Contacts,stg_contacts,25000,6,0,None,SUCCESS,/Users/shreyajoshi/Downloads/CRM/data/staging/stg_contacts.csv
+2026-06-06 19:03:52,Leads,stg_leads,15000,4,0,None,SUCCESS,/Users/shreyajoshi/Downloads/CRM/data/staging/stg_leads.csv
+2026-06-06 19:03:52,Data_Stewardship,stg_stewardship,10000,3,0,None,SUCCESS,/Users/shreyajoshi/Downloads/CRM/data/staging/stg_stewardship.csv
+2026-06-06 19:03:52,Golden_Record_Map,stg_golden_map,5000,3,0,None,SUCCESS,/Users/shreyajoshi/Downloads/CRM/data/staging/stg_golden_map.csv

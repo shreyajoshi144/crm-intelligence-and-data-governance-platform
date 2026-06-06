@@ -1,0 +1,16 @@
+metric_name,metric_value,metric_category,reporting_date
+CRM Health Score,84.97,Overall,2026-06-06
+Data Completeness %,100.0,Data Quality,2026-06-06
+Data Validity %,66.67,Data Quality,2026-06-06
+Data Consistency %,83.18,Data Quality,2026-06-06
+Data Uniqueness %,77.62,Data Quality,2026-06-06
+Data Freshness %,100.0,Data Quality,2026-06-06
+Golden Record Coverage % - Accounts,49.38,Golden Records,2026-06-06
+Golden Record Coverage % - Contacts,88.01,Golden Records,2026-06-06
+Golden Record Coverage % - Leads,100.0,Golden Records,2026-06-06
+Duplicate Rate,16.12,Deduplication,2026-06-06
+Golden Record Coverage % - Overall,83.88,Golden Records,2026-06-06
+Records Under Stewardship,6662.0,Governance Issues,2026-06-06
+Records Requiring Review,0.0,Governance Issues,2026-06-06
+Excellent Records,15836.0,Data Quality,2026-06-06
+Poor Quality Records,0.0,Governance Issues,2026-06-06

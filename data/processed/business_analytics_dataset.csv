@@ -1,0 +1,81 @@
+metric_category,metric_name,metric_value,dimension,dimension_value,reporting_date
+Executive Summary,Total Accounts,4938,Overall,Overall,2026-06-06
+Executive Summary,Total Contacts,22003,Overall,Overall,2026-06-06
+Executive Summary,Total Leads,15000,Overall,Overall,2026-06-06
+Executive Summary,Converted Leads,3831,Overall,Overall,2026-06-06
+Executive Summary,Conversion Rate,25.54,Overall,Overall,2026-06-06
+Executive Summary,Top Lead Source,Event,Overall,Overall,2026-06-06
+Executive Summary,Top Industry,Manufacturing,Overall,Overall,2026-06-06
+Executive Summary,Top Country,USA,Overall,Overall,2026-06-06
+Lead Funnel,Lead Count,3736,Status,New,2026-06-06
+Lead Funnel,Percentage,24.91,Status,New,2026-06-06
+Lead Funnel,Lead Count,3674,Status,Working,2026-06-06
+Lead Funnel,Percentage,24.49,Status,Working,2026-06-06
+Lead Funnel,Lead Count,3759,Status,Qualified,2026-06-06
+Lead Funnel,Percentage,25.06,Status,Qualified,2026-06-06
+Lead Funnel,Lead Count,3831,Status,Converted,2026-06-06
+Lead Funnel,Percentage,25.54,Status,Converted,2026-06-06
+Lead Funnel,Lead Count,0,Status,Unqualified,2026-06-06
+Lead Funnel,Percentage,0.0,Status,Unqualified,2026-06-06
+Lead Funnel,Lead Count,0,Status,Nurturing,2026-06-06
+Lead Funnel,Percentage,0.0,Status,Nurturing,2026-06-06
+Lead Source,Lead Count,3809,Source,LinkedIn,2026-06-06
+Lead Source,Qualified Leads,955,Source,LinkedIn,2026-06-06
+Lead Source,Converted Leads,962,Source,LinkedIn,2026-06-06
+Lead Source,Conversion Rate,25.26,Source,LinkedIn,2026-06-06
+Lead Source,Lead Count,3718,Source,Referral,2026-06-06
+Lead Source,Qualified Leads,940,Source,Referral,2026-06-06
+Lead Source,Converted Leads,930,Source,Referral,2026-06-06
+Lead Source,Conversion Rate,25.01,Source,Referral,2026-06-06
+Lead Source,Lead Count,3769,Source,Event,2026-06-06
+Lead Source,Qualified Leads,949,Source,Event,2026-06-06
+Lead Source,Converted Leads,995,Source,Event,2026-06-06
+Lead Source,Conversion Rate,26.4,Source,Event,2026-06-06
+Lead Source,Lead Count,3704,Source,Web,2026-06-06
+Lead Source,Qualified Leads,915,Source,Web,2026-06-06
+Lead Source,Converted Leads,944,Source,Web,2026-06-06
+Lead Source,Conversion Rate,25.49,Source,Web,2026-06-06
+Industry Distribution,Account Count,1005,Industry,Manufacturing,2026-06-06
+Industry Distribution,Percentage,20.35,Industry,Manufacturing,2026-06-06
+Industry Distribution,Account Count,991,Industry,Finance,2026-06-06
+Industry Distribution,Percentage,20.07,Industry,Finance,2026-06-06
+Industry Distribution,Account Count,987,Industry,Retail,2026-06-06
+Industry Distribution,Percentage,19.99,Industry,Retail,2026-06-06
+Industry Distribution,Account Count,979,Industry,Healthcare,2026-06-06
+Industry Distribution,Percentage,19.83,Industry,Healthcare,2026-06-06
+Industry Distribution,Account Count,976,Industry,Technology,2026-06-06
+Industry Distribution,Percentage,19.77,Industry,Technology,2026-06-06
+Country Distribution,Account Count,1906,Country,USA,2026-06-06
+Country Distribution,Percentage,38.6,Country,USA,2026-06-06
+Country Distribution,Account Count,1163,Country,United Kingdom,2026-06-06
+Country Distribution,Percentage,23.55,Country,United Kingdom,2026-06-06
+Country Distribution,Account Count,633,Country,India,2026-06-06
+Country Distribution,Percentage,12.82,Country,India,2026-06-06
+Country Distribution,Account Count,620,Country,Germany,2026-06-06
+Country Distribution,Percentage,12.56,Country,Germany,2026-06-06
+Country Distribution,Account Count,616,Country,Australia,2026-06-06
+Country Distribution,Percentage,12.47,Country,Australia,2026-06-06
+Account Size,Account Count,9,Account Size,Small,2026-06-06
+Account Size,Percentage,0.18,Account Size,Small,2026-06-06
+Account Size,Account Count,78,Account Size,Medium,2026-06-06
+Account Size,Percentage,1.58,Account Size,Medium,2026-06-06
+Account Size,Account Count,4851,Account Size,Large,2026-06-06
+Account Size,Percentage,98.24,Account Size,Large,2026-06-06
+Revenue Distribution,Account Count,0,Revenue Bucket,< 1M,2026-06-06
+Revenue Distribution,Percentage,0.0,Revenue Bucket,< 1M,2026-06-06
+Revenue Distribution,Account Count,77,Revenue Bucket,1M - 10M,2026-06-06
+Revenue Distribution,Percentage,1.56,Revenue Bucket,1M - 10M,2026-06-06
+Revenue Distribution,Account Count,881,Revenue Bucket,10M - 100M,2026-06-06
+Revenue Distribution,Percentage,17.84,Revenue Bucket,10M - 100M,2026-06-06
+Revenue Distribution,Account Count,3980,Revenue Bucket,100M+,2026-06-06
+Revenue Distribution,Percentage,80.6,Revenue Bucket,100M+,2026-06-06
+Contact Job Title,Contact Count,5576,Job Title,Director,2026-06-06
+Contact Job Title,Percentage,25.34,Job Title,Director,2026-06-06
+Contact Job Title,Contact Count,5513,Job Title,Analyst,2026-06-06
+Contact Job Title,Percentage,25.06,Job Title,Analyst,2026-06-06
+Contact Job Title,Contact Count,5498,Job Title,Manager,2026-06-06
+Contact Job Title,Percentage,24.99,Job Title,Manager,2026-06-06
+Contact Job Title,Contact Count,5416,Job Title,VP,2026-06-06
+Contact Job Title,Percentage,24.61,Job Title,VP,2026-06-06
+Top Industries by Leads,Lead Count,15000,Industry,Unknown,2026-06-06
+Top Industries by Leads,Percentage,100.0,Industry,Unknown,2026-06-06
